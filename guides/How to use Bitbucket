@@ -1,0 +1,13 @@
+#t
+How to use Bitbucket
+
+#s
+1. Go to bitbucket.com
+2. Make an account
+3. This guide is only for if you've been invited!
+4. Download Git Bash: : https://github.com/git-for-windows/git/releases/download/v2.15.1.windows.2/Git-2.15.1.2-64-bit.exe
+5. Go through the installation...
+6. Open the executable
+7. To install the project you've been invited to type first cd to the directory and then enter this command: git clone <link on the bitbucket site>
+8. (To paste stuff in the terminal use middle mouse button)
+9. Done!
